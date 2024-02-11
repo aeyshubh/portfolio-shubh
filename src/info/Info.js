@@ -141,11 +141,6 @@ export const info = {
          image:mock5
         },
         {
-            title : "DCAer - It is a Automated DCA(Dollor cost average) platform built using Phala network",
-            live:"https://github.com/aeyshubh/DCAer",
-            image:mock6
-        },
-        {
             title: "PeerStreams : Decentralized Video streaming platform over Livepeer and Push",
             live: "https://www.peerstreams.tv/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
      // this should be a link to the **repository** of the project, where the code is hosted.
