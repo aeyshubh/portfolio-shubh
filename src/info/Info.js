@@ -77,7 +77,7 @@ export const info = {
     bio: "Hello!,I am Shubham Patel,Integration engineer at Push Protocol and a final year student of Computer Science .I have been developring in Web3 since past 1 year and those are for sure best months of my life.",
     skills:
         {
-            proficientWith: ['Solidity', 'Javascript','Typescript, 'Python', 'git', 'react', 'SoftSkills'],
+            proficientWith: ['Solidity', 'Javascript','Typescript', 'Python', 'git', 'react', 'SoftSkills'],
             exposedTo: ['nodejs', 'C++', 'PHP']
         }
     ,
