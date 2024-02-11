@@ -3,6 +3,8 @@ import mock1 from "../img/mock1.PNG"
 import mock2 from "../img/mock2.PNG"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.PNG"
+import mock5 from "../img/mock5.png"
+import mock6 from "../img/mock6.PNG"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -54,11 +56,6 @@ export const info = {
             label: 'instagram'
         },
         {
-            link: "https://app.mazury.xyz/people/0xaB8a67743325347Aa53bCC66850f8F13df87e3AF/credentials",
-            icon: 'fa fa-certificate',
-            label: 'Mazury(on-chain Certificates'
-        },
-        {
             link: "https://github.com/aeyshubh",
             icon: "fa fa-github",
             label: 'github'
@@ -77,10 +74,10 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello!,I am Shubham Patel,a 3rd year Computer Science student.I have been developring in Web3 since past 8 months and those are for sure best months of my life.",
+    bio: "Hello!,I am Shubham Patel,Integration engineer at Push Protocol and a final year student of Computer Science .I have been developring in Web3 since past 1 year and those are for sure best months of my life.",
     skills:
         {
-            proficientWith: ['Solidity', 'Javascript', 'Python', 'github', 'react', 'SoftSkills', 'css3', 'figma'],
+            proficientWith: ['Solidity', 'Javascript','Typescript, 'Python', 'git', 'react', 'SoftSkills'],
             exposedTo: ['nodejs', 'C++', 'PHP']
         }
     ,
@@ -139,6 +136,15 @@ export const info = {
     ],
     
     portfolio: [ // This is where your portfolio projects will be detailed
+        {title : "Lens-Phite is a 2 player game build on Lens protocol and Phala network in which your Attack power depends on the following,follower,post count on lens protocol.,
+         live :"https://github.com/aeyshubh/lens-Phite2",
+         image:mock5
+        },
+        {
+            title : "DCAer - It is a Automated DCA(Dollor cost average) platform built using Phala network",
+            live:"https://github.com/aeyshubh/DCAer",
+            image:mock6
+        },
         {
             title: "PeerStreams : Decentralized Video streaming platform over Livepeer and Push",
             live: "https://www.peerstreams.tv/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
