@@ -33,8 +33,8 @@ export const info = {
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '☕',
-            text: 'fueled by coffee'
+            emoji: '👩🏻‍💻',
+            text: 'Integration Engineer at Push Protocol'
         },
         {
             emoji: '🌎',
@@ -136,7 +136,7 @@ export const info = {
     ],
     
     portfolio: [ // This is where your portfolio projects will be detailed
-        {title : "Lens-Phite is a 2 player game build on Lens protocol and Phala network in which your Attack power depends on the following,follower,post count on lens protocol.,
+        {title : "Lens-Phite is a 2 player game build on Lens protocol and Phala network in which your Attack power depends on the following,follower,post count on lens protocol.",
          live :"https://github.com/aeyshubh/lens-Phite2",
          image:mock5
         },
