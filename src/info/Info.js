@@ -1,4 +1,4 @@
-import self from "../img/self.png"
+import self from "../img/self.jpg"
 import mock1 from "../img/mock1.PNG"
 import mock2 from "../img/mock2.PNG"
 import mock3 from "../img/mock3.png"

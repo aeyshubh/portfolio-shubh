@@ -3,7 +3,8 @@ import Style from './About.module.scss';
 import Terminal from "./Terminal";
 import {Box} from "@mui/material";
 import {info} from "../../info/Info";
-
+import image from '../../img/pump.png'
+import ImageDescription from './ImageDescription'; // Import the new component
 
 export default function About() {
     const firstName = info.firstName.toLowerCase()
@@ -73,6 +74,10 @@ export default function About() {
             <Terminal text={miscText()}/>
             <Terminal text={Achievements()}/>
 
+            <ImageDescription 
+                imageSrc={image} 
+                description="We send notifications about pumps and dumps in a token." 
+            />
         </Box>
     )
 }
