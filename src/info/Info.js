@@ -34,7 +34,7 @@ export const info = {
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
             emoji: '👩🏻‍💻',
-            text: 'Integration Engineer at Push Protocol'
+            text: 'Ex-Integration Engineer at Push Protocol'
         },
         {
             emoji: '🌎',
@@ -74,7 +74,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello!,I am Shubham Patel,Integration engineer at Push Protocol and a final year student of Computer Science .I have been developring in Web3 since past 1 year and those are for sure best months of my life.",
+    bio: "Hello!,I am Shubham Patel,Ex-Integration engineer at Push Protocol.I have been developring in Web3 since past 1 year and those are for sure best months of my life.",
     skills:
         {
             proficientWith: ['Solidity', 'Javascript','Typescript', 'Python', 'git', 'react', 'SoftSkills'],
