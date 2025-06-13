@@ -42,7 +42,7 @@ export const info = {
         },
         {
             emoji: "🛠️",
-            text: "Ethereum India Fellow"
+            text: "Ethereum India Fellow,Base Fellow"
         },
         {
             emoji: "📧",
@@ -66,7 +66,7 @@ export const info = {
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com/aeyshubh",
+            link: "https://x.com/aeyshubh",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
@@ -74,7 +74,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello!,I am Shubham Patel,Ex-Integration engineer at Push Protocol.I have been developring in Web3 since past 1 year and those are for sure best months of my life.",
+    bio: "Hello!,I am Shubham Patel,Ex-Integration engineer at Push Protocol.I have been developring in Web3 since past 3 years and those are till now the best years of my life.",
     skills:
         {
             proficientWith: ['Solidity', 'Javascript','Typescript', 'Python', 'git', 'react', 'SoftSkills'],
@@ -102,6 +102,10 @@ export const info = {
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     Achies: [
+         {
+            label: ':Base Fellowship is a 2 weeks program by Base, in which we explored Base and created dapps on it. I created a Bot on farcaster called Degenx using which you can gate channels with superfluid money streams',
+            emoji: 'Base Fellowship by FBI'
+        },
         {
             label: ': It was a 8-weeks program sponsored by ethereum foundation in which we explored Ethereum and created dapps on it.',
             emoji: 'Ethereum India Fellowship by Devfolio'
@@ -142,7 +146,7 @@ export const info = {
         },
         {
             title: "PeerStreams : Decentralized Video streaming platform over Livepeer and Push",
-            live: "https://www.peerstreams.tv/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            live: "https://www.youtube.com/watch?v=ye007N7lZXc&ab_channel=ShubhamPatel", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
      // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
